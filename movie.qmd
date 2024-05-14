@@ -1,0 +1,25 @@
+---
+title: "Movie"
+format: html
+
+---
+
+
+## Favorite movie show
+
+I like to watch action movie, and one of my favorite movie is John Wick 4.
+
+:::: {.columns}
+
+::: {.column width="40%"}
+**Overview**
+
+With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.
+:::
+
+::: {.column width="60%" .column height="50%"}
+![Photo of the *John Wick 4*](imgs/jw4.jpg)
+
+:::
+
+::::

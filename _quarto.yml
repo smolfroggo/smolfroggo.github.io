@@ -3,16 +3,18 @@ project:
   output-dir: docs
   
 website:
-  title: "temp_website"
+  title: "Navigation"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: hobby.qmd
         text: Hobby
-
+      - href: movie.qmd
+        text: Movie
+        
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true

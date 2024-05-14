@@ -1,11 +1,16 @@
 ---
-title: "hobby"
+title: "Hobby"
 format: html
-editor: visual
+
 ---
 
 
 ## Gaming
 
-Whenever I am free, i would like to play first-person shooter (FPS) games. Like counter strike 2 and Valorant.
+Whenever I am free, I would like to play first-person shooter (FPS) games. Like Counter Strike 2 and Valorant.
 
+# Valorant
+{{< video https://www.youtube.com/embed/EiVF6QsAijo?si=UaICsmqGY3Osw9Lc >}}
+
+# Counter Strike 2
+{{< video https://www.youtube.com/embed/c80dVYcL69E?si=6jnDFoAYguREMKbh >}}
