@@ -12,4 +12,4 @@ I am a student from Singapore Institution of Technology (SIT) studying Applied A
 
 I am interested in learning more about Artificial Intelligence and Machine Learning. I am also interested in learning more about the different types of programming languages and how they can be used to create different applications.
 
-![Image of the *Titanic*](imgs/1469px-RMS_Titanic_3.jpg)
+![Image of the *Titanic*](/docs/imgs/1469px-RMS_Titanic_3.jpg)
