@@ -5,10 +5,17 @@ format: html
 
 
 
-## Nicholas Tan Qin Sheng
+## Nicholas Tan
 
 I am a student from Singapore Institution of Technology (SIT) studying Applied Artificial Intelligence. I am currently in my first year of study. 
 
 I am interested in learning more about Artificial Intelligence and Machine Learning. I am also interested in learning more about the different types of programming languages and how they can be used to create different applications.
+
+## New School
+Our new campus has been designed to seamlessly integrate with the industry and community as part of the Punggol Digital District. This will enable us to deliver a practical, industry-focused education that will prepare our students for the future. 
+
+SIT is leading the way in creating an intelligent and sustainable university experience by harnessing the power of the Internet of Things. Our students have the opportunity to work closely with industry partners in our smart laboratory. These partners can take advantage of our living lab, which provides an open innovation ecosystem for testing and piloting their prototypes in a real-life environment.
+
+SIT's Punggol campus will open in phases, starting August 2024. The campus has been designed to be porous, interconnected, and will promote interaction between learning, industry, and the community.
 
 ![Image of the New *SIT*](imgs/sit.jpg)
