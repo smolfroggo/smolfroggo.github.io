@@ -104,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Movie</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./project.qmd"> 
+    <a class="nav-link active" href="./Project.html" aria-current="page"> 
 <span class="menu-text">Project</span></a>
   </li>  
 </ul>
@@ -171,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 </div><div class="column" style="width:80%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="imgs/data.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Image of the Data Set"><img src="imgs/data.png" class="img-fluid figure-img" alt="Image of the Data Set"></a></p>
+<p><a href="imgs/data.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Image of the Data Set"><img src="imgs/data.png" class="img-fluid figure-img" alt="Image of the Data Set"></a></p>
 <figcaption>Image of the Data Set</figcaption>
 </figure>
 </div>
@@ -180,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 <p>There were data cleaning required for the dataset such as handling missing values, encoding categorical variables, and feature scaling. The dataset was split into training and testing set. The model was trained by mutliple algorithms such as Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, and Gradient Boosting. The model was evaluated using accuracy, precision, recall, and F1-score. The model with the highest accuracy was SVC with 83.5%.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="imgs/SVC.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="Image of the Different Model Accuracy"><img src="imgs/SVC.png" class="img-fluid figure-img" alt="Image of the Different Model Accuracy"></a></p>
+<p><img src="imgs/SVC.png" class="img-fluid figure-img"></p>
 <figcaption>Image of the Different Model Accuracy</figcaption>
 </figure>
 </div>
@@ -188,7 +188,6 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="hidden" aria-hidden="true">
 <span class="glightbox-desc lightbox-desc-1">Image of the Data Set</span>
-<span class="glightbox-desc lightbox-desc-2">Image of the Different Model Accuracy</span>
 </div>
 </section>
 
@@ -603,7 +602,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox","loop":false,"descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

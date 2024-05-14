@@ -12,7 +12,7 @@ website:
         text: Hobby
       - href: movie.qmd
         text: Movie
-      - href: project.qmd
+      - href: Project.qmd
         text: Project
         
 format:
