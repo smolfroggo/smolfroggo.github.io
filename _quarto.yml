@@ -12,9 +12,11 @@ website:
         text: Hobby
       - href: movie.qmd
         text: Movie
+      - href: project.qmd
+        text: Project
         
 format:
   html:
     theme: yeti
-    css: styles.css
+    css: style.css
     toc: true

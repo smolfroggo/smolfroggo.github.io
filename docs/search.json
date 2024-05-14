@@ -46,7 +46,7 @@
     "href": "movie.html",
     "title": "Movie",
     "section": "",
-    "text": "I like to watch action movie, and one of my favorite movie is John Wick 4.\n\n\nOverview\nWith the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.\n\n\n\n\nPhoto of the John Wick 4"
+    "text": "I like to watch action movie, and one of my favorite movie is John Wick 4.\n\n\nOverview\nWith the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
   },
   {
     "objectID": "movie.html#favroite-movie-show",
@@ -60,7 +60,7 @@
     "href": "movie.html#favorite-movie-show",
     "title": "Movie",
     "section": "",
-    "text": "I like to watch action movie, and one of my favorite movie is John Wick 4.\n\n\nOverview\nWith the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.\n\n\n\n\nPhoto of the John Wick 4"
+    "text": "I like to watch action movie, and one of my favorite movie is John Wick 4.\n\n\nOverview\nWith the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
   },
   {
     "objectID": "index.html#new-school",
@@ -75,5 +75,33 @@
     "title": "About Myself",
     "section": "",
     "text": "I am a student from Singapore Institution of Technology (SIT) studying Applied Artificial Intelligence. I am currently in my first year of study.\nI am interested in learning more about Artificial Intelligence and Machine Learning. I am also interested in learning more about the different types of programming languages and how they can be used to create different applications."
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Project",
+    "section": "",
+    "text": "One of the project that I have done was Machine Learning and the dataset is regarding about titanic survival prediction. The dataset is from Kaggle and it is a binary classification problem. The dataset contains 891 rows and 12 columns. The dataset contains the following columns: \n\n\n\nPassengerId\nSurvived\nPclass\nName\nSex\nAge\nSibSp\nParch\nTicket\nFare\nCabin\nEmbarked\n\n\n\n\n\nImage of the Data Set\n\n\n\n\nThere were data cleaning required for the dataset such as handling missing values, encoding categorical variables, and feature scaling. The dataset was split into training and testing set. The model was trained by mutliple algorithms such as Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, and Gradient Boosting. The model was evaluated using accuracy, precision, recall, and F1-score. The model with the highest accuracy was SVC with 83.5%.\n\n\n\nImage of the Different Model Accuracy\n\n\n\n\n\nImage of the Data Set\nImage of the Different Model Accuracy"
+  },
+  {
+    "objectID": "Project.html#machine-learning",
+    "href": "Project.html#machine-learning",
+    "title": "Project",
+    "section": "",
+    "text": "One of the project that I have done was Machine Learning and the dataset is regarding about titanic survival prediction. The dataset is from Kaggle and it is a binary classification problem. The dataset contains 891 rows and 12 columns. The dataset contains the following columns: \n\n\n\nPassengerId\nSurvived\nPclass\nName\nSex\nAge\nSibSp\nParch\nTicket\nFare\nCabin\nEmbarked\n\n\n\n\n\nImage of the Data Set\n\n\n\n\nThere were data cleaning required for the dataset such as handling missing values, encoding categorical variables, and feature scaling. The dataset was split into training and testing set. The model was trained by mutliple algorithms such as Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, and Gradient Boosting. The model was evaluated using accuracy, precision, recall, and F1-score. The model with the highest accuracy was SVC with 83.5%.\n\n\n\nImage of the Different Model Accuracy\n\n\n\n\n\nImage of the Data Set\nImage of the Different Model Accuracy"
+  },
+  {
+    "objectID": "docs/project.html",
+    "href": "docs/project.html",
+    "title": "Project",
+    "section": "",
+    "text": "One of the project that I have done was Machine Learning and the dataset is regarding about titanic survival prediction. The dataset is from Kaggle and it is a binary classification problem. The dataset contains 891 rows and 12 columns. The dataset contains the following columns: \n\n\n\nPassengerId\nSurvived\nPclass\nName\nSex\nAge\nSibSp\nParch\nTicket\nFare\nCabin\nEmbarked\n\n\n\n\n\nImage of the Data Set\n\n\n\n\nThere were data cleaning required for the dataset such as handling missing values, encoding categorical variables, and feature scaling. The dataset was split into training and testing set. The model was trained by mutliple algorithms such as Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, and Gradient Boosting. The model was evaluated using accuracy, precision, recall, and F1-score. The model with the highest accuracy was SVC with 83.5%.\n\n\n\nImage of the Different Model Accuracy\n\n\n\n\n\nImage of the Data Set\nImage of the Different Model Accuracy"
+  },
+  {
+    "objectID": "docs/project.html#machine-learning",
+    "href": "docs/project.html#machine-learning",
+    "title": "Project",
+    "section": "",
+    "text": "One of the project that I have done was Machine Learning and the dataset is regarding about titanic survival prediction. The dataset is from Kaggle and it is a binary classification problem. The dataset contains 891 rows and 12 columns. The dataset contains the following columns: \n\n\n\nPassengerId\nSurvived\nPclass\nName\nSex\nAge\nSibSp\nParch\nTicket\nFare\nCabin\nEmbarked\n\n\n\n\n\nImage of the Data Set\n\n\n\n\nThere were data cleaning required for the dataset such as handling missing values, encoding categorical variables, and feature scaling. The dataset was split into training and testing set. The model was trained by mutliple algorithms such as Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, and Gradient Boosting. The model was evaluated using accuracy, precision, recall, and F1-score. The model with the highest accuracy was SVC with 83.5%.\n\n\n\nImage of the Different Model Accuracy\n\n\n\n\n\nImage of the Data Set\nImage of the Different Model Accuracy"
   }
 ]

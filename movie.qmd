@@ -18,7 +18,7 @@ With the price on his head ever increasing, John Wick uncovers a path to defeati
 :::
 
 ::: {.column width="60%" .column height="50%"}
-![Photo of the *John Wick 4*](imgs/jw4.jpg)
+<img src="imgs/jw4.jpg" alt="Photo of the John Wick 4" width="300">
 
 :::
 
