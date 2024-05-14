@@ -1,0 +1,11 @@
+---
+title: "hobby"
+format: html
+editor: visual
+---
+
+
+## Gaming
+
+Whenever I am free, i would like to play first-person shooter (FPS) games. Like counter strike 2 and Valorant.
+
